@@ -1,0 +1,17 @@
+sonarqube Tocken:
+----------------------
+
+squ_21ae1bab65b3a9cd934df85f461203c82e228dc9
+
+
+sonar-project--->Generated Tocken:
+--------------------
+
+sonar-scanner \
+  -Dsonar.projectKey=app \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=http://3.93.239.103:9000 \
+  -Dsonar.login=sqp_460d76cdc1cd31870ee16b52de16f97a0f2f1e4e
+
+
+
